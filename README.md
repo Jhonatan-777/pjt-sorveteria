@@ -6,6 +6,8 @@ Nele criamos a página de um site de sorveteria. O site é composto por três p�
 
 ### Página inicial (Home):
 
+![Sorveteria](https://github.com/Jhonatan-777/projeto-sorveteria/assets/155544904/01153c4b-6921-4958-ad15-518ca626f171)
+
 ### Página com informações sobre os sabores:
 
 ### Página com informações sobre a sorveteira:
