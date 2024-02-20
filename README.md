@@ -6,19 +6,27 @@ Nele criamos a página de um site de sorveteria. O site é composto por três p�
 
 > ### Página inicial (Home):
 
-![Sorveteria](https://github.com/Jhonatan-777/projeto-sorveteria/assets/155544904/01153c4b-6921-4958-ad15-518ca626f171)
+![sorveteria-home](https://github.com/Jhonatan-777/projeto-sorveteria/assets/155544904/958e571c-da85-449b-95e0-8d7b39b3f546)
+
+---
 
 > ### Página com informações sobre os sabores:
 
-![Sorveteria (1)](https://github.com/Jhonatan-777/projeto-sorveteria/assets/155544904/ed00d4da-ef26-4f0e-a7f1-b3fc813c870b)
+![sorveteria-sabores](https://github.com/Jhonatan-777/projeto-sorveteria/assets/155544904/d2e1c0ca-161f-4af7-b57d-949d97f56adb)
+
+---
 
 > ### Página com informações sobre a sorveteira:
 
-![Sorveteria (2)](https://github.com/Jhonatan-777/projeto-sorveteria/assets/155544904/c7ffb40f-f798-49f7-82ac-75da284e239f)
+![sorveteria-sobre](https://github.com/Jhonatan-777/projeto-sorveteria/assets/155544904/1380d720-5a9e-4580-a8a7-91df1761da18)
+
+---
 
 > ### Página responsiva:
 
-![Sorveteria (3)](https://github.com/Jhonatan-777/projeto-sorveteria/assets/155544904/547b4f72-e92c-48ff-8b76-2ad0f703846a)
+![sorveteria-responsivo](https://github.com/Jhonatan-777/projeto-sorveteria/assets/155544904/00bde0d1-308d-428a-9384-04f375b79cb9)
+
+---
 
 ## Objetivo
 
