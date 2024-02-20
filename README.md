@@ -10,7 +10,15 @@ Nele criamos a página de um site de sorveteria. O site é composto por três p�
 
 ### Página com informações sobre os sabores:
 
+![Sorveteria (1)](https://github.com/Jhonatan-777/projeto-sorveteria/assets/155544904/ed00d4da-ef26-4f0e-a7f1-b3fc813c870b)
+
 ### Página com informações sobre a sorveteira:
+
+![Sorveteria (2)](https://github.com/Jhonatan-777/projeto-sorveteria/assets/155544904/c7ffb40f-f798-49f7-82ac-75da284e239f)
+
+### Página responsiva:
+
+![Sorveteria (3)](https://github.com/Jhonatan-777/projeto-sorveteria/assets/155544904/547b4f72-e92c-48ff-8b76-2ad0f703846a)
 
 ## Objetivo
 
