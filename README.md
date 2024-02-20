@@ -3,9 +3,12 @@
 Esse projeto foi desenvolvido junto ao curso React SPA da DevMedia.
 
 Nele criamos a página de um site de sorveteria. O site é composto por três páginas:
-Página inicial (Home):
-Página com informações sobre os sabores:
-Página com informações sobre a sorveteira:
+
+### Página inicial (Home):
+
+### Página com informações sobre os sabores:
+
+### Página com informações sobre a sorveteira:
 
 ## Objetivo
 
