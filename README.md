@@ -1,8 +1,9 @@
 # Informações sobre o projeto
 
+Projeto site de sorveteria nome/marca GELATERIA.
 Esse projeto foi desenvolvido junto ao curso React SPA da DevMedia.
 
-> Acesse em: [Projeto Sorveteria](https://projeto-sorveteria-seven.vercel.app/ "Projeto Site Gelateria")
+> Acesse em: [GELATERIA](https://projeto-sorveteria-seven.vercel.app/ "Projeto Site Gelateria")
 
 Nele criamos a página de um site de sorveteria. O site é composto por três páginas:
 
