@@ -28,7 +28,7 @@ export default function Rodape()
       </div>
 
       <div className="container-footer-direitos">
-        <p>Gelateria. Orgulhosamente desenvolvido por <a href="https://github.com/Jhonatan-777">Jhonatan.</a></p>
+        <p>Gelateria. Orgulhosamente desenvolvido por <a href="https://github.com/Jhonatan-777" target="_blank" rel="noreferrer">Jhonatan.</a></p>
       </div>
     </footer>
   )
