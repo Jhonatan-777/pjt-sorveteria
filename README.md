@@ -37,10 +37,10 @@ A proposta desse projeto é criar um site de sorveteria que possui três página
 
 Dessa forma será colocado em prática os seguintes conceitos:
 
-Criar e estruturar as pastas e arquivos do projeto.
-Criar componentes que representam as páginas do site.
-Utilizar a biblioteca React Router Dom para criar a navegação entre as páginas do site.
-Criar os componentes que podem ser reutilizados em todas as páginas do site.
+- Criar e estruturar as pastas e arquivos do projeto.
+- Criar componentes que representam as páginas do site.
+- Utilizar a biblioteca React Router Dom para criar a navegação entre as páginas do site.
+- Criar os componentes que podem ser reutilizados em todas as páginas do site.
 
 ---
 
